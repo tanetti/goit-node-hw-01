@@ -1,16 +1,21 @@
 # GoIT Node H/W 01
 
-##UNKNOWN action
+## UNKNOWN action
+
 ![GitHub actions settings](./assets/action.jpg)
 
-##LIST action
+## LIST action
+
 ![GitHub actions settings](./assets/list.jpg)
 
-##GET action
+## GET action
+
 ![GitHub actions settings](./assets/get.jpg)
 
-##ADD action
+## ADD action
+
 ![GitHub actions settings](./assets/add.jpg)
 
-##REMOVE action
+## REMOVE action
+
 ![GitHub actions settings](./assets/remove.jpg)
